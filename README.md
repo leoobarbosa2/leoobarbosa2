@@ -57,6 +57,6 @@ Technologies I have been contact with lately (outdated)
 
 - In love with Zelda Breath Of The wild ❤ 🗡️
 - Playing Mario Games
-- Skeptical about how far can Nintendo will go through about  its products prices (BRL)
+- Skeptical about how far Nintendo will go through about its products prices (BRL)
 - Waiting Bayonetta 3 to come
 
