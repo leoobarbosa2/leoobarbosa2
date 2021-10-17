@@ -53,7 +53,7 @@ Technologies I have been contact with lately (outdated)
 
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
 
-<p>I'm too tired for play in front of PC right now, so I'm playing on my Nintendo Switch</p>
+<p>I'm too tired of playing in front of PC right now, so I'm playing on my Nintendo Switch</p>
 
 - In love with Zelda Breath Of The wild ❤ 🗡️
 - Playing Mario Games
