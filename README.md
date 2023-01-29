@@ -3,7 +3,7 @@
 I'm Leo, 24.
 
 - 🔭 I’m currently working entirely with Front-end development at <a href="https://www.linkedin.com/company/ifood-/mycompany/">IFood</a>
-- 🌱 I've started studying TS recently, but I am already using it at work.
+- 🌱 I've started to work with Maps recently (Mapbox)
 - 😄 Pronouns: He/Him...
 
 <div style="">
