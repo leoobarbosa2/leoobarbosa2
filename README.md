@@ -2,7 +2,7 @@
 
 I'm Leo, 24.
 
-- 🔭 I’m currently working entirely with Front-end development at <a href="https://www.linkedin.com/company/ifood-/mycompany/">IFood</a>
+- 🔭 I’m currently working entirely with Front-end development
 - 🌱 I've started to work with Maps recently (Mapbox)
 - 😄 Pronouns: He/Him...
 
