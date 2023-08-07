@@ -47,8 +47,6 @@ Technologies I have been contact with lately (outdated)
 
 <p>I'm too tired of playing in front of PC right now, so I'm playing on my Nintendo Switch</p>
 
-- In love with Zelda Breath Of The wild ❤ 🗡️
-- Playing Mario Games
-- Skeptical about how far Nintendo will go through about its products prices (BRL)
-- Waiting Bayonetta 3 to come
+- In love with Zelda ❤ 🗡️
+- Always Playing Mario Games
 
