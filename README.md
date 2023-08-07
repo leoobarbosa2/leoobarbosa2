@@ -4,18 +4,11 @@ I'm Leo, 24.
 
 -  Access my website: https://leonardopbarbosa.dev/
 - 🔭 I’m currently working entirely with Front-end development
-- 🌱 I've started to work with Maps recently (Mapbox)
 - 😄 Pronouns: He/Him...
-
-<div style="">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=leoobarbosa2&show_icons=true&theme=dracula" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoobarbosa2&theme=dracula" />
-</div>
 
 <hr/>
 
 You can find me in:
-
 
 <a href="https://www.linkedin.com/in/leonardobarbosacp/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
