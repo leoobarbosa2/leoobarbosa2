@@ -1,8 +1,7 @@
 ### Hello! How is it going? 👋
 
-I'm Leo, 24.
+I'm Leo, 25.
 
--  Access my website: https://leonardopbarbosa.dev/
 - 🔭 I’m currently working entirely with Front-end development
 - 😄 Pronouns: He/Him...
 
