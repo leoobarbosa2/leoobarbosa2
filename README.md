@@ -1,6 +1,6 @@
 ### Hello! How is it going? 👋
 
-I'm Leo, 25.
+I'm Leo, 26
 
 - 🔭 I’m currently working entirely with Front-end development
 - 😄 Pronouns: He/Him...
