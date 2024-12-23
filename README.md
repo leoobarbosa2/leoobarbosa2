@@ -3,6 +3,7 @@
 I'm Leo, 26
 
 - 🔭 I’m currently working entirely with Front-end development
+- Learning backend 💻
 - 😄 Pronouns: He/Him...
 
 <hr/>
